@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwordnet.a CMakeFiles/wordnet.dir/src/Wordnet.cpp.o
+/usr/bin/ranlib libwordnet.a

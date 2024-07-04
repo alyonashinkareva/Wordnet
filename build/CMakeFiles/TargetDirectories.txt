@@ -1,0 +1,10 @@
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/CMakeFiles/main.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/CMakeFiles/rebuild_cache.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/CMakeFiles/rebuild_cache.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/wordnet/CMakeFiles/wordnet.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/wordnet/CMakeFiles/tests.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/wordnet/CMakeFiles/etc.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/wordnet/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/wordnet/CMakeFiles/rebuild_cache.dir

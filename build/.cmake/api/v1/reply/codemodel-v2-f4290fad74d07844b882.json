@@ -1,0 +1,136 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "libraries",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-libraries-Debug-a240e4b91e98ca34081a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libraries"
+				},
+				{
+					"build" : "libraries/wordnet",
+					"jsonFile" : "directory-libraries.wordnet-Debug-244533144bab6fa46b4f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libraries/wordnet",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "BigTask2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "wordnet",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "etc::@531b5b08a801fdb95974",
+					"jsonFile" : "target-etc-Debug-c452d5548ea82266c9fc.json",
+					"name" : "etc",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-990f2264351a1683f73a.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "tests::@531b5b08a801fdb95974",
+					"jsonFile" : "target-tests-Debug-bb448684b24482548c1f.json",
+					"name" : "tests",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "wordnet::@531b5b08a801fdb95974",
+					"jsonFile" : "target-wordnet-Debug-df5b4f59f5b9a3436d6f.json",
+					"name" : "wordnet",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build",
+		"source" : "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

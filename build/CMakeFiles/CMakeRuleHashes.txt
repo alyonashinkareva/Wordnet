@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+b6bc94c385a1d01ac391aebdc9131acf libraries/wordnet/CMakeFiles/etc
+a08239516960e8095a6fde24f013238f libraries/wordnet/etc/hypernyms.txt

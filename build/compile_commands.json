@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/libraries/wordnet/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/src/main.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/wordnet",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/libraries/wordnet/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/wordnet.dir/src/Wordnet.cpp.o -c /Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/libraries/wordnet/src/Wordnet.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/libraries/wordnet/src/Wordnet.cpp",
+  "output": "libraries/wordnet/CMakeFiles/wordnet.dir/src/Wordnet.cpp.o"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/build/libraries/wordnet",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/libraries/wordnet/include -isystem /Users/alyonashinkareva/.conan/data/gtest/1.13.0/_/_/package/329b7541de28d674d0a082361e7574047e3b317f/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/tests.dir/tests_sources/test.cpp.o -c /Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/libraries/wordnet/tests_sources/test.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/asss/wordnet-alyoshinkkaa/libraries/wordnet/tests_sources/test.cpp",
+  "output": "libraries/wordnet/CMakeFiles/tests.dir/tests_sources/test.cpp.o"
+}
+]
